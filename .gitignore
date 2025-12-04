@@ -1,0 +1,43 @@
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Expo / React Native ---
+.expo/
+.expo-shared/
+dist/
+web-build/
+.expo/web/*.js
+.expo/web/cache/
+
+# --- Metro bundler ---
+metro-cache/
+.cache/
+
+# --- Logs ---
+logs/
+*.log
+*.log.*
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Environment files ---
+.env
+.env.local
+.env.*.local
+
+# --- VSCode / Editor ---
+.vscode/
+.idea/
+*.swp
+
+# --- TypeScript ---
+*.tsbuildinfo
+
+# --- Android / iOS (só geradas se ejectar) ---
+android/
+ios/
