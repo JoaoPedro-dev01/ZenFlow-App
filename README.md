@@ -166,6 +166,6 @@ Este aplicativo foi desenvolvido como projeto final da disciplina _Programação
 
 ## 👤 Autores
 
-Desenvolvido por **João Pedro Freitas**, **Muriel Antunes**, **Bruno Rafael** durante a disciplina Programação para Dispositivos Móveis em Android.
+Desenvolvido por **João Pedro Freitas**, **Muriel Antunes**, **Bruno Rafael** durante a disciplina Programação para Dispositivos Móveis em Android na Instituição Estácio De Sá.
 
 ---
